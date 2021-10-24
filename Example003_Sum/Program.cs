@@ -1,4 +1,4 @@
-﻿int a = new Random().Next(1, 10); // 1,2,..,9
+﻿int a = new Random().Next(1, 10); // 1 2 .. 9
 int b = new Random().Next(1, 10);
 int result = a + b;
 Console.WriteLine("a=" + a);
